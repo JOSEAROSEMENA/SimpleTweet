@@ -11,7 +11,7 @@ import java.util.List;
 
 /*
  * This is a temporary, sample model that demonstrates the basic structure
- * of a SQLite persisted Model object. Check out the Room guide for more details:
+ * of a SQLite persisted Tweet object. Check out the Room guide for more details:
  * https://github.com/codepath/android_guides/wiki/Room-Guide
  *
  */
